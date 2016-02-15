@@ -1,6 +1,7 @@
 <?php
 /*
  comment added by me ....
+ * second line ....
 */
 use foo,
     abc
